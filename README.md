@@ -5,7 +5,7 @@ This project shows a comprehensive data warehousing solution, from building a da
 
 ---
 
-### BI: Analytics and Reporting (Ada Analytics)
+### BI: Analytics and Reporting (Data Analytics)
 
 ### Objective
 Develop SQL-based analytics to deliver detailed insights into:
